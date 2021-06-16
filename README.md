@@ -1,10 +1,17 @@
 # libpythonpro
+Módulo para exemplificar a construção de projetos Python no curso Pytools.
+Nesse caso é ensinado como contribuir com projetos de código aberto.
 
 
-[![Build Status](https://travis-ci.com/wartrax13/libpythonpro.svg?branch=main)](https://travis-ci.com/wartrax13/libpythonpro)
+
 
 LINK DO CURSO: [Python Pro](https://pythonpro.com.br/)
+[![Build Status](https://travis-ci.com/wartrax13/libpythonpro.svg?branch=main)](https://travis-ci.com/wartrax13/libpythonpro)
 
-Tópicos a serem abordados:
-1. Git
-2. Virtualenv
+Para instalar:
+'''python 3 -m venv .venv
+source .ven/bin/activate
+pip install -r requirements-dev.txt'''
+
+Para conferir qualidade do código:
+'''flake8'''
