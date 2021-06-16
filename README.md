@@ -1,9 +1,7 @@
 # libpythonpro
-Testando fork e pull
 
-Vou tentar fazer uma modificação.
 
-Tentativa segunda.
+[![Build Status](https://travis-ci.com/wartrax13/libpythonpro.svg?branch=main)](https://travis-ci.com/wartrax13/libpythonpro)
 
 LINK DO CURSO: [Python Pro](https://pythonpro.com.br/)
 
