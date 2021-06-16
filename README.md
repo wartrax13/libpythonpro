@@ -8,3 +8,4 @@ Tentativa segunda.
 
 LINK DO CURSO: [Python Pro](https://pythonpro.com.br/)
 
+
