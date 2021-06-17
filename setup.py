@@ -93,10 +93,8 @@ def find_package_data(
                 out.setdefault(package, []).append(prefix + name)
     return out
 
-
 PACKAGE = "libpythonpro"
-# NAME = PACKAGE
-NAME = 'eng_libpythonpro'
+NAME = 'lib_pypi'
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Renzo Nuccitelli"
 AUTHOR_EMAIL = "renzo@python.pro.br"
