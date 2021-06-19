@@ -16,7 +16,8 @@ LINK DO CURSO: [Python Pro](https://pythonpro.com.br/)
 
 Para instalar:
 
-```python 3 -m venv .venv
+```
+python 3 -m venv .venv
 source .ven/bin/activate
 pip install -r requirements-dev.txt```
 
