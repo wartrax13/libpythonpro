@@ -2,4 +2,17 @@ flake8==3.9.2
 mccabe==0.6.1
 pycodestyle==2.7.0
 pyflakes==2.3.1
+
+#do pytest
+pytest==6.2.4
+colorama == 0.4.4
+attrs==21.2.0
+toml==0.10.2
+atomicwrites == 1.4.0
+py==1.10.0
+packaging==20.9
+iniconfig==1.1.1
+pluggy==0.13.1
+pyparsing==2.4.7
+
 -r requirements.txt
