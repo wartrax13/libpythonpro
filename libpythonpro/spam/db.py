@@ -9,7 +9,7 @@ class Sessao:
         usuario.id = Sessao.contador
         self.usuarios.append(usuario)
 
-    def lista(self):
+    def listar(self):
         return self.usuarios
 
     def roll_back(self):

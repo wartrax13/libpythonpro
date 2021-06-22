@@ -9,7 +9,7 @@ def test_criar_enviador_de_email():
 
 @pytest.mark.parametrize(
     'destinatario',
-    ['foo@bar.com.br', 'pedro.moisesandrade@gmail.com']
+    ['foo@bar.com.br', 'wartrax13@gmail.com']
 )
 def test_remetente(destinatario):
     enviador = Enviador()
