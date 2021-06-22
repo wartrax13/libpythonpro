@@ -19,4 +19,8 @@ pyparsing==2.4.7
 coverage==5.5
 pytest-cov==2.12.1
 
+pyparsing==2.4.7
+packaging==20.9
+pytest-mock==3.6.1
+
 -r requirements.txt
