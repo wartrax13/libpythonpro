@@ -5,10 +5,10 @@ from libpythonpro.spam.db import Conexao
 
 @pytest.fixture(scope='module')
 def conexao():
-    #SETUP
+    '#SETUP'
     conexao_obj = Conexao()
     yield conexao_obj
-    #TEAR DOWN
+    '#TEAR DOWN'
     conexao_obj.fechar()
 
 
