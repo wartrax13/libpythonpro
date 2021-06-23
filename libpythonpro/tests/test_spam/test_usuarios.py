@@ -12,4 +12,4 @@ def test_listar_usuarios(sessao):
                 Usuario(nome='Luciano', email='pedro.moisesandrade@gmail.com')]
     for usuario in usuarios:
         sessao.salvar(usuario)
-    assert usuarios == sessao.lista()
+    assert usuarios == sessao.listar()
