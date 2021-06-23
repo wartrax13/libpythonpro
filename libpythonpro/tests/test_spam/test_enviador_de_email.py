@@ -27,7 +27,7 @@ def test_remetente(destinatario):
     'remetente',
     [' ', 'pedro']
 )
-def test_remetente(remetente):
+def test_remetente(remetente) -> object:
     enviador = Enviador()
     with pytest.raises(EmailInvalido):
         enviador.enviar(
