@@ -46,11 +46,8 @@
             "version": "==2.27.0"
         },
         "urllib3": {
-            "hashes": [
-                "sha256:000ca7f471a233c2251c6c7023ee85305721bfdf18621ebff4fd17a8653427ed",
-                "sha256:0e7c33d9a63e7ddfcb86780aac87befc2fbddf46c58dbb487e0855f7ceec283c"
-            ],
-            "version": "==1.26.8"
+            "hashes": [],
+            "version": "==2.0.6"
         }
     },
     "develop": {
